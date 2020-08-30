@@ -1,7 +1,0 @@
-carpma (){
-a+b;
-}
-
-carpalimmi (){
-buraya kod gelecek 
-}
